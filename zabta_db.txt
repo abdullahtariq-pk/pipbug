@@ -1,4 +1,10 @@
-<root> 
+<laws> 
+<law>
 <id>1</id>
 <section>109</section>
-</root>
+</law>
+<law>
+<id>2</id>
+<section>110</section>
+</law>
+</laws>
