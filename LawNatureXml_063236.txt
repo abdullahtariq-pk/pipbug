@@ -1,0 +1,254 @@
+<LawNatures>
+<LawNature>
+<PId>9</PId>
+<LawCategoryId>1</LawCategoryId>
+<LawCategoryName>ت پ</LawCategoryName>
+<LawNatureId>5</LawNatureId>
+<LanguageId>1</LanguageId>
+<Name>جرم کی ترغیب و سازش، ریاست مخالف، آرمی و نیوی مخالف، عوامی امن و سکون مخالف جرائم</Name>
+<Limit>109-160</Limit>
+</LawNature>
+<LawNature>
+<PId>10</PId>
+<LawCategoryId>1</LawCategoryId>
+<LawCategoryName>PPC</LawCategoryName>
+<LawNatureId>5</LawNatureId>
+<LanguageId>2</LanguageId>
+<Name>Offences relating Criminal abetment and conspiracy, against state, against army and navy, against public tranquility</Name>
+<Limit>109-160</Limit>
+</LawNature>
+<LawNature>
+<PId>15</PId>
+<LawCategoryId>1</LawCategoryId>
+<LawCategoryName>ت پ</LawCategoryName>
+<LawNatureId>8</LawNatureId>
+<LanguageId>1</LanguageId>
+<Name>سرکاری ملازمین، انتخابات مخالف، سرکاری ملازم کی حکم عدولی والے جرائم</Name>
+<Limit>161-190</Limit>
+</LawNature>
+<LawNature>
+<PId>16</PId>
+<LawCategoryId>1</LawCategoryId>
+<LawCategoryName>PPC</LawCategoryName>
+<LawNatureId>8</LawNatureId>
+<LanguageId>2</LanguageId>
+<Name>Offences relating public servant, elections, Contempt of lawful authority of public servant</Name>
+<Limit>161-190</Limit>
+</LawNature>
+<LawNature>
+<PId>17</PId>
+<LawCategoryId>1</LawCategoryId>
+<LawCategoryName>ت پ</LawCategoryName>
+<LawNatureId>9</LawNatureId>
+<LanguageId>1</LanguageId>
+<Name>جھوٹی شہادت اور عوامی انصاف مخالف جرائم</Name>
+<Limit>193-229</Limit>
+</LawNature>
+<LawNature>
+<PId>18</PId>
+<LawCategoryId>1</LawCategoryId>
+<LawCategoryName>PPC</LawCategoryName>
+<LawNatureId>9</LawNatureId>
+<LanguageId>2</LanguageId>
+<Name>Offences of False evidence and offence against public justice</Name>
+<Limit>193-229</Limit>
+</LawNature>
+<LawNature>
+<PId>19</PId>
+<LawCategoryId>1</LawCategoryId>
+<LawCategoryName>ت پ</LawCategoryName>
+<LawNatureId>10</LawNatureId>
+<LanguageId>1</LanguageId>
+<Name>سکے اور سرکاری اسٹامپ کی جعلسازی کے جرائم</Name>
+<Limit>231-263A</Limit>
+</LawNature>
+<LawNature>
+<PId>20</PId>
+<LawCategoryId>1</LawCategoryId>
+<LawCategoryName>PPC</LawCategoryName>
+<LawNatureId>10</LawNatureId>
+<LanguageId>2</LanguageId>
+<Name>Offences of forgery of coin and Govt stamp</Name>
+<Limit>231-263A</Limit>
+</LawNature>
+<LawNature>
+<PId>25</PId>
+<LawCategoryId>1</LawCategoryId>
+<LawCategoryName>ت پ</LawCategoryName>
+<LawNatureId>13</LawNatureId>
+<LanguageId>1</LanguageId>
+<Name>غلط ترازو(کم تول) اور غلط پیمانہ(کم پیمائش) کرنیوالے، عوامی صحت، حفاظت، سہولت، شرافت (حیاء)، اخلاقیات اور مذہب متاثر کرنیوالے جرائم</Name>
+<Limit>264-298C</Limit>
+</LawNature>
+<LawNature>
+<PId>26</PId>
+<LawCategoryId>1</LawCategoryId>
+<LawCategoryName>PPC</LawCategoryName>
+<LawNatureId>13</LawNatureId>
+<LanguageId>2</LanguageId>
+<Name>Offences of doing wrong weight and wrong measure, affecting public health, safety, convenience, decency, moral and religion</Name>
+<Limit>264-298C</Limit>
+</LawNature>
+<LawNature>
+<PId>27</PId>
+<LawCategoryId>1</LawCategoryId>
+<LawCategoryName>ت پ</LawCategoryName>
+<LawNatureId>14</LawNatureId>
+<LanguageId>1</LanguageId>
+<Name>انسانی جسم کو نقصان پہنچانے کے جرائم</Name>
+<Limit>302-338C</Limit>
+</LawNature>
+<LawNature>
+<PId>28</PId>
+<LawCategoryId>1</LawCategoryId>
+<LawCategoryName>PPC</LawCategoryName>
+<LawNatureId>14</LawNatureId>
+<LanguageId>2</LanguageId>
+<Name>Offences of affecting human body</Name>
+<Limit>302-338C</Limit>
+</LawNature>
+<LawNature>
+<PId>29</PId>
+<LawCategoryId>1</LawCategoryId>
+<LawCategoryName>ت پ</LawCategoryName>
+<LawNatureId>15</LawNatureId>
+<LanguageId>1</LanguageId>
+<Name>غیرقانونی روکاوٹ، غیرقانونی قید، مجرمانہ زور زبردستی، حملہ، زبردستی اغوا، فریب کیساتھ اغواہ، غلام بنانے، زبردستی مشقت، زنا بالجبر اور غیر فطری بدفعلی کے جرائم</Name>
+<Limit>341-377</Limit>
+</LawNature>
+<LawNature>
+<PId>30</PId>
+<LawCategoryId>1</LawCategoryId>
+<LawCategoryName>PPC</LawCategoryName>
+<LawNatureId>15</LawNatureId>
+<LanguageId>2</LanguageId>
+<Name>Offences of Wrongful restraint, wrongful confinement, criminal force, assault, Kidnapping, abduction, slavery, forced labor, Rape, Unnatural lust</Name>
+<Limit>341-377</Limit>
+</LawNature>
+<LawNature>
+<PId>37</PId>
+<LawCategoryId>1</LawCategoryId>
+<LawCategoryName>ت پ</LawCategoryName>
+<LawNatureId>19</LawNatureId>
+<LanguageId>1</LanguageId>
+<Name>چوری، بھتہ، ڈکیتی اور ڈاکہ کے جرائم</Name>
+<Limit>379-402</Limit>
+</LawNature>
+<LawNature>
+<PId>38</PId>
+<LawCategoryId>1</LawCategoryId>
+<LawCategoryName>PPC</LawCategoryName>
+<LawNatureId>19</LawNatureId>
+<LanguageId>2</LanguageId>
+<Name>Offences of Theft, Extortion, Robbery and dacoity</Name>
+<Limit>379-402</Limit>
+</LawNature>
+<LawNature>
+<PId>39</PId>
+<LawCategoryId>1</LawCategoryId>
+<LawCategoryName>ت پ</LawCategoryName>
+<LawNatureId>20</LawNatureId>
+<LanguageId>1</LanguageId>
+<Name>مال یا جائیداد کو مجرمانہ غبن یا ہڑپ کرنے، امانت میں خیانت، چوری شدہ مال وصول کرنے کے جرائم</Name>
+<Limit>403-414</Limit>
+</LawNature>
+<LawNature>
+<PId>40</PId>
+<LawCategoryId>1</LawCategoryId>
+<LawCategoryName>PPC</LawCategoryName>
+<LawNatureId>20</LawNatureId>
+<LanguageId>2</LanguageId>
+<Name>Offences of criminal misappropriation of property, criminal breach of trust, receiving of stolen property</Name>
+<Limit>403-414</Limit>
+</LawNature>
+<LawNature>
+<PId>45</PId>
+<LawCategoryId>1</LawCategoryId>
+<LawCategoryName>ت پ</LawCategoryName>
+<LawNatureId>23</LawNatureId>
+<LanguageId>1</LanguageId>
+<Name>دھوکہ دہی، جائیداد کے جعلی معاہدے و انتقالات، شیطانی حرکت یا نقصان پہنچانے کے جرائم</Name>
+<Limit>417-440</Limit>
+</LawNature>
+<LawNature>
+<PId>46</PId>
+<LawCategoryId>1</LawCategoryId>
+<LawCategoryName>PPC</LawCategoryName>
+<LawNatureId>23</LawNatureId>
+<LanguageId>2</LanguageId>
+<Name>Offences of Cheating, Fraudulent deeds and disposition of property, Mischief</Name>
+<Limit>417-440</Limit>
+</LawNature>
+<LawNature>
+<PId>51</PId>
+<LawCategoryId>1</LawCategoryId>
+<LawCategoryName>ت پ</LawCategoryName>
+<LawNatureId>26</LawNatureId>
+<LanguageId>1</LanguageId>
+<Name>مجرمانہ داخلہ یا دراندازی کے جرائم</Name>
+<Limit>447-462</Limit>
+</LawNature>
+<LawNature>
+<PId>52</PId>
+<LawCategoryId>1</LawCategoryId>
+<LawCategoryName>PPC</LawCategoryName>
+<LawNatureId>26</LawNatureId>
+<LanguageId>2</LanguageId>
+<Name>Offences of Criminal trespass</Name>
+<Limit>447-462</Limit>
+</LawNature>
+<LawNature>
+<PId>53</PId>
+<LawCategoryId>1</LawCategoryId>
+<LawCategoryName>ت پ</LawCategoryName>
+<LawNatureId>27</LawNatureId>
+<LanguageId>1</LanguageId>
+<Name>تیل، گیس اور بجلی کے جرائم</Name>
+<Limit>462B-462M</Limit>
+</LawNature>
+<LawNature>
+<PId>54</PId>
+<LawCategoryId>1</LawCategoryId>
+<LawCategoryName>PPC</LawCategoryName>
+<LawNatureId>27</LawNatureId>
+<LanguageId>2</LanguageId>
+<Name>Offences of oil, gas and electricity</Name>
+<Limit>462B-462M</Limit>
+</LawNature>
+<LawNature>
+<PId>55</PId>
+<LawCategoryId>1</LawCategoryId>
+<LawCategoryName>ت پ</LawCategoryName>
+<LawNatureId>28</LawNatureId>
+<LanguageId>1</LanguageId>
+<Name>دستاویزات، ٹریڈ مارک، پراپرٹی مارک، کرنسی نوٹ، بینک نوٹ کی جعلسازی کے جرائم</Name>
+<Limit>465-489G</Limit>
+</LawNature>
+<LawNature>
+<PId>56</PId>
+<LawCategoryId>1</LawCategoryId>
+<LawCategoryName>PPC</LawCategoryName>
+<LawNatureId>28</LawNatureId>
+<LanguageId>2</LanguageId>
+<Name>Offences of Forgery of documents, trade mark, property mark, currency note or bank note</Name>
+<Limit>465-489G</Limit>
+</LawNature>
+<LawNature>
+<PId>59</PId>
+<LawCategoryId>1</LawCategoryId>
+<LawCategoryName>ت پ</LawCategoryName>
+<LawNatureId>30</LawNatureId>
+<LanguageId>1</LanguageId>
+<Name>غیر قانونی شادی، عورت مخالف، ہتک عزت، مجرمانہ دھمکی، بیعزتی، ذہنی تکلیف اور جرم سرزد کرنے کی کوشش والے جرائم</Name>
+<Limit>491-511</Limit>
+</LawNature>
+<LawNature>
+<PId>60</PId>
+<LawCategoryId>1</LawCategoryId>
+<LawCategoryName>PPC</LawCategoryName>
+<LawNatureId>30</LawNatureId>
+<LanguageId>2</LanguageId>
+<Name>Offences of Unlawful Marriage, Against Woman, Defamation Criminal Intimidation, Insult, Annoyance, Attempt to commit offence</Name>
+<Limit>491-511</Limit>
+</LawNature>
+</LawNatures>
