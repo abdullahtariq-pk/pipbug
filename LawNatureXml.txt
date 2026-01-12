@@ -10,7 +10,7 @@
 </LawNature>
 <LawNature>
 <PId>10</PId>
-<LawCategoryId>1</LawCategoryId>
+<LawCategoryId>2</LawCategoryId>
 <LawCategoryName>PPC</LawCategoryName>
 <LawNatureId>5</LawNatureId>
 <LanguageId>2</LanguageId>
@@ -28,7 +28,7 @@
 </LawNature>
 <LawNature>
 <PId>16</PId>
-<LawCategoryId>1</LawCategoryId>
+<LawCategoryId>2</LawCategoryId>
 <LawCategoryName>PPC</LawCategoryName>
 <LawNatureId>8</LawNatureId>
 <LanguageId>2</LanguageId>
@@ -46,7 +46,7 @@
 </LawNature>
 <LawNature>
 <PId>18</PId>
-<LawCategoryId>1</LawCategoryId>
+<LawCategoryId>2</LawCategoryId>
 <LawCategoryName>PPC</LawCategoryName>
 <LawNatureId>9</LawNatureId>
 <LanguageId>2</LanguageId>
@@ -64,7 +64,7 @@
 </LawNature>
 <LawNature>
 <PId>20</PId>
-<LawCategoryId>1</LawCategoryId>
+<LawCategoryId>2</LawCategoryId>
 <LawCategoryName>PPC</LawCategoryName>
 <LawNatureId>10</LawNatureId>
 <LanguageId>2</LanguageId>
@@ -82,7 +82,7 @@
 </LawNature>
 <LawNature>
 <PId>26</PId>
-<LawCategoryId>1</LawCategoryId>
+<LawCategoryId>2</LawCategoryId>
 <LawCategoryName>PPC</LawCategoryName>
 <LawNatureId>13</LawNatureId>
 <LanguageId>2</LanguageId>
@@ -100,7 +100,7 @@
 </LawNature>
 <LawNature>
 <PId>28</PId>
-<LawCategoryId>1</LawCategoryId>
+<LawCategoryId>2</LawCategoryId>
 <LawCategoryName>PPC</LawCategoryName>
 <LawNatureId>14</LawNatureId>
 <LanguageId>2</LanguageId>
@@ -118,7 +118,7 @@
 </LawNature>
 <LawNature>
 <PId>30</PId>
-<LawCategoryId>1</LawCategoryId>
+<LawCategoryId>2</LawCategoryId>
 <LawCategoryName>PPC</LawCategoryName>
 <LawNatureId>15</LawNatureId>
 <LanguageId>2</LanguageId>
@@ -136,7 +136,7 @@
 </LawNature>
 <LawNature>
 <PId>38</PId>
-<LawCategoryId>1</LawCategoryId>
+<LawCategoryId>2</LawCategoryId>
 <LawCategoryName>PPC</LawCategoryName>
 <LawNatureId>19</LawNatureId>
 <LanguageId>2</LanguageId>
@@ -154,7 +154,7 @@
 </LawNature>
 <LawNature>
 <PId>40</PId>
-<LawCategoryId>1</LawCategoryId>
+<LawCategoryId>2</LawCategoryId>
 <LawCategoryName>PPC</LawCategoryName>
 <LawNatureId>20</LawNatureId>
 <LanguageId>2</LanguageId>
@@ -172,7 +172,7 @@
 </LawNature>
 <LawNature>
 <PId>46</PId>
-<LawCategoryId>1</LawCategoryId>
+<LawCategoryId>2</LawCategoryId>
 <LawCategoryName>PPC</LawCategoryName>
 <LawNatureId>23</LawNatureId>
 <LanguageId>2</LanguageId>
@@ -190,7 +190,7 @@
 </LawNature>
 <LawNature>
 <PId>52</PId>
-<LawCategoryId>1</LawCategoryId>
+<LawCategoryId>2</LawCategoryId>
 <LawCategoryName>PPC</LawCategoryName>
 <LawNatureId>26</LawNatureId>
 <LanguageId>2</LanguageId>
@@ -208,7 +208,7 @@
 </LawNature>
 <LawNature>
 <PId>54</PId>
-<LawCategoryId>1</LawCategoryId>
+<LawCategoryId>2</LawCategoryId>
 <LawCategoryName>PPC</LawCategoryName>
 <LawNatureId>27</LawNatureId>
 <LanguageId>2</LanguageId>
@@ -226,7 +226,7 @@
 </LawNature>
 <LawNature>
 <PId>56</PId>
-<LawCategoryId>1</LawCategoryId>
+<LawCategoryId>2</LawCategoryId>
 <LawCategoryName>PPC</LawCategoryName>
 <LawNatureId>28</LawNatureId>
 <LanguageId>2</LanguageId>
@@ -244,7 +244,7 @@
 </LawNature>
 <LawNature>
 <PId>60</PId>
-<LawCategoryId>1</LawCategoryId>
+<LawCategoryId>2</LawCategoryId>
 <LawCategoryName>PPC</LawCategoryName>
 <LawNatureId>30</LawNatureId>
 <LanguageId>2</LanguageId>
@@ -253,3 +253,4 @@
 </LawNature>
 
 </LawNatures>
+
