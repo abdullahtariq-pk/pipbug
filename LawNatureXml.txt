@@ -1,7 +1,7 @@
 <LawNatures>
 <LawNature>
 <PId>9</PId>
-<LawCategoryId>1</LawCategoryId>
+<LawCategoryPId>1</LawCategoryPId>
 <LawCategoryName>ت پ</LawCategoryName>
 <LawNatureId>5</LawNatureId>
 <LanguageId>1</LanguageId>
@@ -10,7 +10,7 @@
 </LawNature>
 <LawNature>
 <PId>10</PId>
-<LawCategoryId>2</LawCategoryId>
+<LawCategoryPId>2</LawCategoryPId>
 <LawCategoryName>PPC</LawCategoryName>
 <LawNatureId>5</LawNatureId>
 <LanguageId>2</LanguageId>
@@ -19,7 +19,7 @@
 </LawNature>
 <LawNature>
 <PId>15</PId>
-<LawCategoryId>1</LawCategoryId>
+<LawCategoryPId>1</LawCategoryPId>
 <LawCategoryName>ت پ</LawCategoryName>
 <LawNatureId>8</LawNatureId>
 <LanguageId>1</LanguageId>
@@ -28,7 +28,7 @@
 </LawNature>
 <LawNature>
 <PId>16</PId>
-<LawCategoryId>2</LawCategoryId>
+<LawCategoryPId>2</LawCategoryPId>
 <LawCategoryName>PPC</LawCategoryName>
 <LawNatureId>8</LawNatureId>
 <LanguageId>2</LanguageId>
@@ -37,7 +37,7 @@
 </LawNature>
 <LawNature>
 <PId>17</PId>
-<LawCategoryId>1</LawCategoryId>
+<LawCategoryPId>1</LawCategoryPId>
 <LawCategoryName>ت پ</LawCategoryName>
 <LawNatureId>9</LawNatureId>
 <LanguageId>1</LanguageId>
@@ -46,7 +46,7 @@
 </LawNature>
 <LawNature>
 <PId>18</PId>
-<LawCategoryId>2</LawCategoryId>
+<LawCategoryPId>2</LawCategoryPId>
 <LawCategoryName>PPC</LawCategoryName>
 <LawNatureId>9</LawNatureId>
 <LanguageId>2</LanguageId>
@@ -55,7 +55,7 @@
 </LawNature>
 <LawNature>
 <PId>19</PId>
-<LawCategoryId>1</LawCategoryId>
+<LawCategoryPId>1</LawCategoryPId>
 <LawCategoryName>ت پ</LawCategoryName>
 <LawNatureId>10</LawNatureId>
 <LanguageId>1</LanguageId>
@@ -64,7 +64,7 @@
 </LawNature>
 <LawNature>
 <PId>20</PId>
-<LawCategoryId>2</LawCategoryId>
+<LawCategoryPId>2</LawCategoryPId>
 <LawCategoryName>PPC</LawCategoryName>
 <LawNatureId>10</LawNatureId>
 <LanguageId>2</LanguageId>
@@ -73,7 +73,7 @@
 </LawNature>
 <LawNature>
 <PId>25</PId>
-<LawCategoryId>1</LawCategoryId>
+<LawCategoryPId>1</LawCategoryPId>
 <LawCategoryName>ت پ</LawCategoryName>
 <LawNatureId>13</LawNatureId>
 <LanguageId>1</LanguageId>
@@ -82,7 +82,7 @@
 </LawNature>
 <LawNature>
 <PId>26</PId>
-<LawCategoryId>2</LawCategoryId>
+<LawCategoryPId>2</LawCategoryPId>
 <LawCategoryName>PPC</LawCategoryName>
 <LawNatureId>13</LawNatureId>
 <LanguageId>2</LanguageId>
@@ -91,7 +91,7 @@
 </LawNature>
 <LawNature>
 <PId>27</PId>
-<LawCategoryId>1</LawCategoryId>
+<LawCategoryPId>1</LawCategoryPId>
 <LawCategoryName>ت پ</LawCategoryName>
 <LawNatureId>14</LawNatureId>
 <LanguageId>1</LanguageId>
@@ -100,7 +100,7 @@
 </LawNature>
 <LawNature>
 <PId>28</PId>
-<LawCategoryId>2</LawCategoryId>
+<LawCategoryPId>2</LawCategoryPId>
 <LawCategoryName>PPC</LawCategoryName>
 <LawNatureId>14</LawNatureId>
 <LanguageId>2</LanguageId>
@@ -109,7 +109,7 @@
 </LawNature>
 <LawNature>
 <PId>29</PId>
-<LawCategoryId>1</LawCategoryId>
+<LawCategoryPId>1</LawCategoryPId>
 <LawCategoryName>ت پ</LawCategoryName>
 <LawNatureId>15</LawNatureId>
 <LanguageId>1</LanguageId>
@@ -118,7 +118,7 @@
 </LawNature>
 <LawNature>
 <PId>30</PId>
-<LawCategoryId>2</LawCategoryId>
+<LawCategoryPId>2</LawCategoryPId>
 <LawCategoryName>PPC</LawCategoryName>
 <LawNatureId>15</LawNatureId>
 <LanguageId>2</LanguageId>
@@ -127,7 +127,7 @@
 </LawNature>
 <LawNature>
 <PId>37</PId>
-<LawCategoryId>1</LawCategoryId>
+<LawCategoryPId>1</LawCategoryPId>
 <LawCategoryName>ت پ</LawCategoryName>
 <LawNatureId>19</LawNatureId>
 <LanguageId>1</LanguageId>
@@ -136,7 +136,7 @@
 </LawNature>
 <LawNature>
 <PId>38</PId>
-<LawCategoryId>2</LawCategoryId>
+<LawCategoryPId>2</LawCategoryPId>
 <LawCategoryName>PPC</LawCategoryName>
 <LawNatureId>19</LawNatureId>
 <LanguageId>2</LanguageId>
@@ -145,7 +145,7 @@
 </LawNature>
 <LawNature>
 <PId>39</PId>
-<LawCategoryId>1</LawCategoryId>
+<LawCategoryPId>1</LawCategoryPId>
 <LawCategoryName>ت پ</LawCategoryName>
 <LawNatureId>20</LawNatureId>
 <LanguageId>1</LanguageId>
@@ -154,7 +154,7 @@
 </LawNature>
 <LawNature>
 <PId>40</PId>
-<LawCategoryId>2</LawCategoryId>
+<LawCategoryPId>2</LawCategoryPId>
 <LawCategoryName>PPC</LawCategoryName>
 <LawNatureId>20</LawNatureId>
 <LanguageId>2</LanguageId>
@@ -163,7 +163,7 @@
 </LawNature>
 <LawNature>
 <PId>45</PId>
-<LawCategoryId>1</LawCategoryId>
+<LawCategoryPId>1</LawCategoryPId>
 <LawCategoryName>ت پ</LawCategoryName>
 <LawNatureId>23</LawNatureId>
 <LanguageId>1</LanguageId>
@@ -172,7 +172,7 @@
 </LawNature>
 <LawNature>
 <PId>46</PId>
-<LawCategoryId>2</LawCategoryId>
+<LawCategoryPId>2</LawCategoryPId>
 <LawCategoryName>PPC</LawCategoryName>
 <LawNatureId>23</LawNatureId>
 <LanguageId>2</LanguageId>
@@ -181,7 +181,7 @@
 </LawNature>
 <LawNature>
 <PId>51</PId>
-<LawCategoryId>1</LawCategoryId>
+<LawCategoryPId>1</LawCategoryPId>
 <LawCategoryName>ت پ</LawCategoryName>
 <LawNatureId>26</LawNatureId>
 <LanguageId>1</LanguageId>
@@ -190,7 +190,7 @@
 </LawNature>
 <LawNature>
 <PId>52</PId>
-<LawCategoryId>2</LawCategoryId>
+<LawCategoryPId>2</LawCategoryPId>
 <LawCategoryName>PPC</LawCategoryName>
 <LawNatureId>26</LawNatureId>
 <LanguageId>2</LanguageId>
@@ -199,7 +199,7 @@
 </LawNature>
 <LawNature>
 <PId>53</PId>
-<LawCategoryId>1</LawCategoryId>
+<LawCategoryPId>1</LawCategoryPId>
 <LawCategoryName>ت پ</LawCategoryName>
 <LawNatureId>27</LawNatureId>
 <LanguageId>1</LanguageId>
@@ -208,7 +208,7 @@
 </LawNature>
 <LawNature>
 <PId>54</PId>
-<LawCategoryId>2</LawCategoryId>
+<LawCategoryPId>2</LawCategoryPId>
 <LawCategoryName>PPC</LawCategoryName>
 <LawNatureId>27</LawNatureId>
 <LanguageId>2</LanguageId>
@@ -217,7 +217,7 @@
 </LawNature>
 <LawNature>
 <PId>55</PId>
-<LawCategoryId>1</LawCategoryId>
+<LawCategoryPId>1</LawCategoryPId>
 <LawCategoryName>ت پ</LawCategoryName>
 <LawNatureId>28</LawNatureId>
 <LanguageId>1</LanguageId>
@@ -226,7 +226,7 @@
 </LawNature>
 <LawNature>
 <PId>56</PId>
-<LawCategoryId>2</LawCategoryId>
+<LawCategoryPId>2</LawCategoryPId>
 <LawCategoryName>PPC</LawCategoryName>
 <LawNatureId>28</LawNatureId>
 <LanguageId>2</LanguageId>
@@ -235,7 +235,7 @@
 </LawNature>
 <LawNature>
 <PId>59</PId>
-<LawCategoryId>1</LawCategoryId>
+<LawCategoryPId>1</LawCategoryPId>
 <LawCategoryName>ت پ</LawCategoryName>
 <LawNatureId>30</LawNatureId>
 <LanguageId>1</LanguageId>
@@ -244,7 +244,7 @@
 </LawNature>
 <LawNature>
 <PId>60</PId>
-<LawCategoryId>2</LawCategoryId>
+<LawCategoryPId>2</LawCategoryPId>
 <LawCategoryName>PPC</LawCategoryName>
 <LawNatureId>30</LawNatureId>
 <LanguageId>2</LanguageId>
@@ -253,4 +253,5 @@
 </LawNature>
 
 </LawNatures>
+
 
